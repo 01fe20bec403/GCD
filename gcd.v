@@ -86,6 +86,7 @@ default:begin lda=0;ldb=0;end
 endcase
 end endmodule
 
+//TEST BENCH
 
 module gcdtb;
 reg [15:0]data_in;
